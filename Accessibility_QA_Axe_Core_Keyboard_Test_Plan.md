@@ -484,7 +484,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 **Result:** Record per rule, node and state using the common result model, then summarise WCAG and best-practice results separately.
 
 
-### AUTO-17 Keyboard risk patterns
+### AUTO-17 Keyboard
 
 **Outcome:** No failures are found in the selected frame, scroll-region and image-map keyboard risk checks; keyboard best-practice findings are assessed separately.
 
