@@ -437,7 +437,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 **Result:** Record per rule, node and state using the common result model, then summarise WCAG and best-practice results separately.
 
 
-### AUTO-15 Audio and video markers
+### AUTO-15 Audio and video
 
 **Outcome:** Supported media satisfies the rule-detectable prerecorded caption-track and autoplay checks, with review findings resolved.
 
