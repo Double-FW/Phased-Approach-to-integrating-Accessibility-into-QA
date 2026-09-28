@@ -61,12 +61,12 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [aria-required-children](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-required-children.json) | [Deque University guidance for aria-required-children](https://dequeuniversity.com/rules/axe/4.12/aria-required-children?application=axeAPI) | WCAG A/AA partial check |
-| [aria-required-parent](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-required-parent.json) | [Deque University guidance for aria-required-parent](https://dequeuniversity.com/rules/axe/4.12/aria-required-parent?application=axeAPI) | WCAG A/AA partial check |
-| [definition-list](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/definition-list.json) | [Deque University guidance for definition-list](https://dequeuniversity.com/rules/axe/4.12/definition-list?application=axeAPI) | WCAG A/AA partial check |
-| [dlitem](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/dlitem.json) | [Deque University guidance for dlitem](https://dequeuniversity.com/rules/axe/4.12/dlitem?application=axeAPI) | WCAG A/AA partial check |
-| [list](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/list.json) | [Deque University guidance for list](https://dequeuniversity.com/rules/axe/4.12/list?application=axeAPI) | WCAG A/AA partial check |
-| [listitem](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/listitem.json) | [Deque University guidance for listitem](https://dequeuniversity.com/rules/axe/4.12/listitem?application=axeAPI) | WCAG A/AA partial check |
+| [aria-required-children](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-required-children.json) | [aria-required-children](https://dequeuniversity.com/rules/axe/4.12/aria-required-children?application=axeAPI) | WCAG A/AA partial check |
+| [aria-required-parent](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-required-parent.json) | [aria-required-parent](https://dequeuniversity.com/rules/axe/4.12/aria-required-parent?application=axeAPI) | WCAG A/AA partial check |
+| [definition-list](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/definition-list.json) | [definition-list](https://dequeuniversity.com/rules/axe/4.12/definition-list?application=axeAPI) | WCAG A/AA partial check |
+| [dlitem](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/dlitem.json) | [dlitem](https://dequeuniversity.com/rules/axe/4.12/dlitem?application=axeAPI) | WCAG A/AA partial check |
+| [list](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/list.json) | [list](https://dequeuniversity.com/rules/axe/4.12/list?application=axeAPI) | WCAG A/AA partial check |
+| [listitem](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/listitem.json) | [listitem](https://dequeuniversity.com/rules/axe/4.12/listitem?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 1.3.1 Info and Relationships](https://www.w3.org/TR/WCAG22/#info-and-relationships).
@@ -89,11 +89,11 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [td-headers-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/td-headers-attr.json) | [Deque University guidance for td-headers-attr](https://dequeuniversity.com/rules/axe/4.12/td-headers-attr?application=axeAPI) | WCAG A/AA partial check |
-| [th-has-data-cells](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/th-has-data-cells.json) | [Deque University guidance for th-has-data-cells](https://dequeuniversity.com/rules/axe/4.12/th-has-data-cells?application=axeAPI) | WCAG A/AA partial check |
-| [empty-table-header](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/empty-table-header.json) | [Deque University guidance for empty-table-header](https://dequeuniversity.com/rules/axe/4.12/empty-table-header?application=axeAPI) | Best practice |
-| [scope-attr-valid](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/scope-attr-valid.json) | [Deque University guidance for scope-attr-valid](https://dequeuniversity.com/rules/axe/4.12/scope-attr-valid?application=axeAPI) | Best practice |
-| [table-duplicate-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/table-duplicate-name.json) | [Deque University guidance for table-duplicate-name](https://dequeuniversity.com/rules/axe/4.12/table-duplicate-name?application=axeAPI) | Best practice |
+| [td-headers-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/td-headers-attr.json) | [td-headers-attr](https://dequeuniversity.com/rules/axe/4.12/td-headers-attr?application=axeAPI) | WCAG A/AA partial check |
+| [th-has-data-cells](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/th-has-data-cells.json) | [th-has-data-cells](https://dequeuniversity.com/rules/axe/4.12/th-has-data-cells?application=axeAPI) | WCAG A/AA partial check |
+| [empty-table-header](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/empty-table-header.json) | [empty-table-header](https://dequeuniversity.com/rules/axe/4.12/empty-table-header?application=axeAPI) | Best practice |
+| [scope-attr-valid](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/scope-attr-valid.json) | [scope-attr-valid](https://dequeuniversity.com/rules/axe/4.12/scope-attr-valid?application=axeAPI) | Best practice |
+| [table-duplicate-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/table-duplicate-name.json) | [table-duplicate-name](https://dequeuniversity.com/rules/axe/4.12/table-duplicate-name?application=axeAPI) | Best practice |
 
 **WCAG and related guidance:** 
 [WCAG 1.3.1 Info and Relationships](https://www.w3.org/TR/WCAG22/#info-and-relationships).
@@ -118,9 +118,9 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [heading-order](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/heading-order.json) | [Deque University guidance for heading-order](https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI) | Best practice |
-| [page-has-heading-one](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/page-has-heading-one.json) | [Deque University guidance for page-has-heading-one](https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI) | Best practice |
-| [empty-heading](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/empty-heading.json) | [Deque University guidance for empty-heading](https://dequeuniversity.com/rules/axe/4.12/empty-heading?application=axeAPI) | Best practice |
+| [heading-order](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/heading-order.json) | [heading-order](https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI) | Best practice |
+| [page-has-heading-one](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/page-has-heading-one.json) | [page-has-heading-one](https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI) | Best practice |
+| [empty-heading](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/empty-heading.json) | [empty-heading](https://dequeuniversity.com/rules/axe/4.12/empty-heading?application=axeAPI) | Best practice |
 
 **WCAG and related guidance:** 
 [WCAG 1.3.1 Info and Relationships](https://www.w3.org/TR/WCAG22/#info-and-relationships); [WCAG 2.4.6 Headings and Labels](https://www.w3.org/TR/WCAG22/#headings-and-labels).
@@ -145,17 +145,17 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [bypass](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/bypass.json) | [Deque University guidance for bypass](https://dequeuniversity.com/rules/axe/4.12/bypass?application=axeAPI) | WCAG A/AA partial check |
-| [skip-link](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/skip-link.json) | [Deque University guidance for skip-link](https://dequeuniversity.com/rules/axe/4.12/skip-link?application=axeAPI) | Best practice |
-| [landmark-banner-is-top-level](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-banner-is-top-level.json) | [Deque University guidance for landmark-banner-is-top-level](https://dequeuniversity.com/rules/axe/4.12/landmark-banner-is-top-level?application=axeAPI) | Best practice |
-| [landmark-contentinfo-is-top-level](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-contentinfo-is-top-level.json) | [Deque University guidance for landmark-contentinfo-is-top-level](https://dequeuniversity.com/rules/axe/4.12/landmark-contentinfo-is-top-level?application=axeAPI) | Best practice |
-| [landmark-no-duplicate-main](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-no-duplicate-main.json) | [Deque University guidance for landmark-no-duplicate-main](https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-main?application=axeAPI) | Best practice |
-| [landmark-one-main](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-one-main.json) | [Deque University guidance for landmark-one-main](https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI) | Best practice |
-| [region](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/region.json) | [Deque University guidance for region](https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI) | Best practice |
-| [landmark-main-is-top-level](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-main-is-top-level.json) | [Deque University guidance for landmark-main-is-top-level](https://dequeuniversity.com/rules/axe/4.12/landmark-main-is-top-level?application=axeAPI) | Best practice |
-| [landmark-no-duplicate-banner](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-no-duplicate-banner.json) | [Deque University guidance for landmark-no-duplicate-banner](https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-banner?application=axeAPI) | Best practice |
-| [landmark-no-duplicate-contentinfo](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-no-duplicate-contentinfo.json) | [Deque University guidance for landmark-no-duplicate-contentinfo](https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-contentinfo?application=axeAPI) | Best practice |
-| [landmark-unique](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-unique.json) | [Deque University guidance for landmark-unique](https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI) | Best practice |
+| [bypass](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/bypass.json) | [bypass](https://dequeuniversity.com/rules/axe/4.12/bypass?application=axeAPI) | WCAG A/AA partial check |
+| [skip-link](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/skip-link.json) | [skip-link](https://dequeuniversity.com/rules/axe/4.12/skip-link?application=axeAPI) | Best practice |
+| [landmark-banner-is-top-level](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-banner-is-top-level.json) | [landmark-banner-is-top-level](https://dequeuniversity.com/rules/axe/4.12/landmark-banner-is-top-level?application=axeAPI) | Best practice |
+| [landmark-contentinfo-is-top-level](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-contentinfo-is-top-level.json) | [landmark-contentinfo-is-top-level](https://dequeuniversity.com/rules/axe/4.12/landmark-contentinfo-is-top-level?application=axeAPI) | Best practice |
+| [landmark-no-duplicate-main](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-no-duplicate-main.json) | [landmark-no-duplicate-main](https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-main?application=axeAPI) | Best practice |
+| [landmark-one-main](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-one-main.json) | [landmark-one-main](https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI) | Best practice |
+| [region](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/region.json) | [region](https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI) | Best practice |
+| [landmark-main-is-top-level](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-main-is-top-level.json) | [landmark-main-is-top-level](https://dequeuniversity.com/rules/axe/4.12/landmark-main-is-top-level?application=axeAPI) | Best practice |
+| [landmark-no-duplicate-banner](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-no-duplicate-banner.json) | [landmark-no-duplicate-banner](https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-banner?application=axeAPI) | Best practice |
+| [landmark-no-duplicate-contentinfo](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-no-duplicate-contentinfo.json) | [landmark-no-duplicate-contentinfo](https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-contentinfo?application=axeAPI) | Best practice |
+| [landmark-unique](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/landmark-unique.json) | [landmark-unique](https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI) | Best practice |
 
 **WCAG and related guidance:** 
 [WCAG 2.4.1 Bypass Blocks](https://www.w3.org/TR/WCAG22/#bypass-blocks).
@@ -178,8 +178,8 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [area-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/area-alt.json) | [Deque University guidance for area-alt](https://dequeuniversity.com/rules/axe/4.12/area-alt?application=axeAPI) | WCAG A/AA partial check |
-| [link-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/link-name.json) | [Deque University guidance for link-name](https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI) | WCAG A/AA partial check |
+| [area-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/area-alt.json) | [area-alt](https://dequeuniversity.com/rules/axe/4.12/area-alt?application=axeAPI) | WCAG A/AA partial check |
+| [link-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/link-name.json) | [link-name](https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 2.4.4 Link Purpose in Context](https://www.w3.org/TR/WCAG22/#link-purpose-in-context); [WCAG 4.1.2 Name Role Value](https://www.w3.org/TR/WCAG22/#name-role-value).
@@ -201,7 +201,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [document-title](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/document-title.json) | [Deque University guidance for document-title](https://dequeuniversity.com/rules/axe/4.12/document-title?application=axeAPI) | WCAG A/AA partial check |
+| [document-title](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/document-title.json) | [document-title](https://dequeuniversity.com/rules/axe/4.12/document-title?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 2.4.2 Page Titled](https://www.w3.org/TR/WCAG22/#page-titled).
@@ -223,10 +223,10 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [html-has-lang](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/html-has-lang.json) | [Deque University guidance for html-has-lang](https://dequeuniversity.com/rules/axe/4.12/html-has-lang?application=axeAPI) | WCAG A/AA partial check |
-| [html-lang-valid](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/html-lang-valid.json) | [Deque University guidance for html-lang-valid](https://dequeuniversity.com/rules/axe/4.12/html-lang-valid?application=axeAPI) | WCAG A/AA partial check |
-| [html-xml-lang-mismatch](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/html-xml-lang-mismatch.json) | [Deque University guidance for html-xml-lang-mismatch](https://dequeuniversity.com/rules/axe/4.12/html-xml-lang-mismatch?application=axeAPI) | WCAG A/AA partial check |
-| [valid-lang](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/valid-lang.json) | [Deque University guidance for valid-lang](https://dequeuniversity.com/rules/axe/4.12/valid-lang?application=axeAPI) | WCAG A/AA partial check |
+| [html-has-lang](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/html-has-lang.json) | [html-has-lang](https://dequeuniversity.com/rules/axe/4.12/html-has-lang?application=axeAPI) | WCAG A/AA partial check |
+| [html-lang-valid](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/html-lang-valid.json) | [html-lang-valid](https://dequeuniversity.com/rules/axe/4.12/html-lang-valid?application=axeAPI) | WCAG A/AA partial check |
+| [html-xml-lang-mismatch](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/html-xml-lang-mismatch.json) | [html-xml-lang-mismatch](https://dequeuniversity.com/rules/axe/4.12/html-xml-lang-mismatch?application=axeAPI) | WCAG A/AA partial check |
+| [valid-lang](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/valid-lang.json) | [valid-lang](https://dequeuniversity.com/rules/axe/4.12/valid-lang?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 3.1.1 Language of Page](https://www.w3.org/TR/WCAG22/#language-of-page); [WCAG 3.1.2 Language of Parts](https://www.w3.org/TR/WCAG22/#language-of-parts).
@@ -248,34 +248,34 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [aria-allowed-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-allowed-attr.json) | [Deque University guidance for aria-allowed-attr](https://dequeuniversity.com/rules/axe/4.12/aria-allowed-attr?application=axeAPI) | WCAG A/AA partial check |
-| [aria-braille-equivalent](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-braille-equivalent.json) | [Deque University guidance for aria-braille-equivalent](https://dequeuniversity.com/rules/axe/4.12/aria-braille-equivalent?application=axeAPI) | WCAG A/AA partial check |
-| [aria-command-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-command-name.json) | [Deque University guidance for aria-command-name](https://dequeuniversity.com/rules/axe/4.12/aria-command-name?application=axeAPI) | WCAG A/AA partial check |
-| [aria-conditional-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-conditional-attr.json) | [Deque University guidance for aria-conditional-attr](https://dequeuniversity.com/rules/axe/4.12/aria-conditional-attr?application=axeAPI) | WCAG A/AA partial check |
-| [aria-deprecated-role](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-deprecated-role.json) | [Deque University guidance for aria-deprecated-role](https://dequeuniversity.com/rules/axe/4.12/aria-deprecated-role?application=axeAPI) | WCAG A/AA partial check |
-| [aria-hidden-body](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-hidden-body.json) | [Deque University guidance for aria-hidden-body](https://dequeuniversity.com/rules/axe/4.12/aria-hidden-body?application=axeAPI) | WCAG A/AA partial check |
-| [aria-hidden-focus](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-hidden-focus.json) | [Deque University guidance for aria-hidden-focus](https://dequeuniversity.com/rules/axe/4.12/aria-hidden-focus?application=axeAPI) | WCAG A/AA partial check |
-| [aria-input-field-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-input-field-name.json) | [Deque University guidance for aria-input-field-name](https://dequeuniversity.com/rules/axe/4.12/aria-input-field-name?application=axeAPI) | WCAG A/AA partial check |
-| [aria-prohibited-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-prohibited-attr.json) | [Deque University guidance for aria-prohibited-attr](https://dequeuniversity.com/rules/axe/4.12/aria-prohibited-attr?application=axeAPI) | WCAG A/AA partial check |
-| [aria-required-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-required-attr.json) | [Deque University guidance for aria-required-attr](https://dequeuniversity.com/rules/axe/4.12/aria-required-attr?application=axeAPI) | WCAG A/AA partial check |
-| [aria-roles](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-roles.json) | [Deque University guidance for aria-roles](https://dequeuniversity.com/rules/axe/4.12/aria-roles?application=axeAPI) | WCAG A/AA partial check |
-| [aria-tab-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-tab-name.json) | [Deque University guidance for aria-tab-name](https://dequeuniversity.com/rules/axe/4.12/aria-tab-name?application=axeAPI) | WCAG A/AA partial check |
-| [aria-toggle-field-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-toggle-field-name.json) | [Deque University guidance for aria-toggle-field-name](https://dequeuniversity.com/rules/axe/4.12/aria-toggle-field-name?application=axeAPI) | WCAG A/AA partial check |
-| [aria-tooltip-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-tooltip-name.json) | [Deque University guidance for aria-tooltip-name](https://dequeuniversity.com/rules/axe/4.12/aria-tooltip-name?application=axeAPI) | WCAG A/AA partial check |
-| [aria-valid-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-valid-attr.json) | [Deque University guidance for aria-valid-attr](https://dequeuniversity.com/rules/axe/4.12/aria-valid-attr?application=axeAPI) | WCAG A/AA partial check |
-| [aria-valid-attr-value](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-valid-attr-value.json) | [Deque University guidance for aria-valid-attr-value](https://dequeuniversity.com/rules/axe/4.12/aria-valid-attr-value?application=axeAPI) | WCAG A/AA partial check |
-| [button-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/button-name.json) | [Deque University guidance for button-name](https://dequeuniversity.com/rules/axe/4.12/button-name?application=axeAPI) | WCAG A/AA partial check |
-| [duplicate-id-aria](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/duplicate-id-aria.json) | [Deque University guidance for duplicate-id-aria](https://dequeuniversity.com/rules/axe/4.12/duplicate-id-aria?application=axeAPI) | WCAG A/AA partial check |
-| [input-button-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/input-button-name.json) | [Deque University guidance for input-button-name](https://dequeuniversity.com/rules/axe/4.12/input-button-name?application=axeAPI) | WCAG A/AA partial check |
-| [label](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/label.json) | [Deque University guidance for label](https://dequeuniversity.com/rules/axe/4.12/label?application=axeAPI) | WCAG A/AA partial check |
-| [nested-interactive](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/nested-interactive.json) | [Deque University guidance for nested-interactive](https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI) | WCAG A/AA partial check |
-| [select-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/select-name.json) | [Deque University guidance for select-name](https://dequeuniversity.com/rules/axe/4.12/select-name?application=axeAPI) | WCAG A/AA partial check |
-| [summary-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/summary-name.json) | [Deque University guidance for summary-name](https://dequeuniversity.com/rules/axe/4.12/summary-name?application=axeAPI) | WCAG A/AA partial check |
-| [aria-allowed-role](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-allowed-role.json) | [Deque University guidance for aria-allowed-role](https://dequeuniversity.com/rules/axe/4.12/aria-allowed-role?application=axeAPI) | Best practice |
-| [aria-dialog-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-dialog-name.json) | [Deque University guidance for aria-dialog-name](https://dequeuniversity.com/rules/axe/4.12/aria-dialog-name?application=axeAPI) | Best practice |
-| [aria-text](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-text.json) | [Deque University guidance for aria-text](https://dequeuniversity.com/rules/axe/4.12/aria-text?application=axeAPI) | Best practice |
-| [aria-treeitem-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-treeitem-name.json) | [Deque University guidance for aria-treeitem-name](https://dequeuniversity.com/rules/axe/4.12/aria-treeitem-name?application=axeAPI) | Best practice |
-| [presentation-role-conflict](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/presentation-role-conflict.json) | [Deque University guidance for presentation-role-conflict](https://dequeuniversity.com/rules/axe/4.12/presentation-role-conflict?application=axeAPI) | Best practice |
+| [aria-allowed-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-allowed-attr.json) | [aria-allowed-attr](https://dequeuniversity.com/rules/axe/4.12/aria-allowed-attr?application=axeAPI) | WCAG A/AA partial check |
+| [aria-braille-equivalent](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-braille-equivalent.json) | [aria-braille-equivalent](https://dequeuniversity.com/rules/axe/4.12/aria-braille-equivalent?application=axeAPI) | WCAG A/AA partial check |
+| [aria-command-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-command-name.json) | [aria-command-name](https://dequeuniversity.com/rules/axe/4.12/aria-command-name?application=axeAPI) | WCAG A/AA partial check |
+| [aria-conditional-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-conditional-attr.json) | [aria-conditional-attr](https://dequeuniversity.com/rules/axe/4.12/aria-conditional-attr?application=axeAPI) | WCAG A/AA partial check |
+| [aria-deprecated-role](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-deprecated-role.json) | [aria-deprecated-role](https://dequeuniversity.com/rules/axe/4.12/aria-deprecated-role?application=axeAPI) | WCAG A/AA partial check |
+| [aria-hidden-body](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-hidden-body.json) | [aria-hidden-body](https://dequeuniversity.com/rules/axe/4.12/aria-hidden-body?application=axeAPI) | WCAG A/AA partial check |
+| [aria-hidden-focus](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-hidden-focus.json) | [aria-hidden-focus](https://dequeuniversity.com/rules/axe/4.12/aria-hidden-focus?application=axeAPI) | WCAG A/AA partial check |
+| [aria-input-field-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-input-field-name.json) | [aria-input-field-name](https://dequeuniversity.com/rules/axe/4.12/aria-input-field-name?application=axeAPI) | WCAG A/AA partial check |
+| [aria-prohibited-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-prohibited-attr.json) | [aria-prohibited-attr](https://dequeuniversity.com/rules/axe/4.12/aria-prohibited-attr?application=axeAPI) | WCAG A/AA partial check |
+| [aria-required-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-required-attr.json) | [aria-required-attr](https://dequeuniversity.com/rules/axe/4.12/aria-required-attr?application=axeAPI) | WCAG A/AA partial check |
+| [aria-roles](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-roles.json) | [aria-roles](https://dequeuniversity.com/rules/axe/4.12/aria-roles?application=axeAPI) | WCAG A/AA partial check |
+| [aria-tab-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-tab-name.json) | [aria-tab-name](https://dequeuniversity.com/rules/axe/4.12/aria-tab-name?application=axeAPI) | WCAG A/AA partial check |
+| [aria-toggle-field-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-toggle-field-name.json) | [aria-toggle-field-name](https://dequeuniversity.com/rules/axe/4.12/aria-toggle-field-name?application=axeAPI) | WCAG A/AA partial check |
+| [aria-tooltip-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-tooltip-name.json) | [aria-tooltip-name](https://dequeuniversity.com/rules/axe/4.12/aria-tooltip-name?application=axeAPI) | WCAG A/AA partial check |
+| [aria-valid-attr](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-valid-attr.json) | [aria-valid-attr](https://dequeuniversity.com/rules/axe/4.12/aria-valid-attr?application=axeAPI) | WCAG A/AA partial check |
+| [aria-valid-attr-value](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-valid-attr-value.json) | [aria-valid-attr-value](https://dequeuniversity.com/rules/axe/4.12/aria-valid-attr-value?application=axeAPI) | WCAG A/AA partial check |
+| [button-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/button-name.json) | [button-name](https://dequeuniversity.com/rules/axe/4.12/button-name?application=axeAPI) | WCAG A/AA partial check |
+| [duplicate-id-aria](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/duplicate-id-aria.json) | [duplicate-id-aria](https://dequeuniversity.com/rules/axe/4.12/duplicate-id-aria?application=axeAPI) | WCAG A/AA partial check |
+| [input-button-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/input-button-name.json) | [input-button-name](https://dequeuniversity.com/rules/axe/4.12/input-button-name?application=axeAPI) | WCAG A/AA partial check |
+| [label](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/label.json) | [label](https://dequeuniversity.com/rules/axe/4.12/label?application=axeAPI) | WCAG A/AA partial check |
+| [nested-interactive](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/nested-interactive.json) | [nested-interactive](https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI) | WCAG A/AA partial check |
+| [select-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/select-name.json) | [select-name](https://dequeuniversity.com/rules/axe/4.12/select-name?application=axeAPI) | WCAG A/AA partial check |
+| [summary-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/summary-name.json) | [summary-name](https://dequeuniversity.com/rules/axe/4.12/summary-name?application=axeAPI) | WCAG A/AA partial check |
+| [aria-allowed-role](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-allowed-role.json) | [aria-allowed-role](https://dequeuniversity.com/rules/axe/4.12/aria-allowed-role?application=axeAPI) | Best practice |
+| [aria-dialog-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-dialog-name.json) | [aria-dialog-name](https://dequeuniversity.com/rules/axe/4.12/aria-dialog-name?application=axeAPI) | Best practice |
+| [aria-text](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-text.json) | [aria-text](https://dequeuniversity.com/rules/axe/4.12/aria-text?application=axeAPI) | Best practice |
+| [aria-treeitem-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-treeitem-name.json) | [aria-treeitem-name](https://dequeuniversity.com/rules/axe/4.12/aria-treeitem-name?application=axeAPI) | Best practice |
+| [presentation-role-conflict](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/presentation-role-conflict.json) | [presentation-role-conflict](https://dequeuniversity.com/rules/axe/4.12/presentation-role-conflict?application=axeAPI) | Best practice |
 
 **WCAG and related guidance:** 
 [WCAG 4.1.2 Name Role Value](https://www.w3.org/TR/WCAG22/#name-role-value); [WCAG 2.5.3 Label in Name](https://www.w3.org/TR/WCAG22/#label-in-name).
@@ -299,9 +299,9 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [frame-tested](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-tested.json) | [Deque University guidance for frame-tested](https://dequeuniversity.com/rules/axe/4.12/frame-tested?application=axeAPI) | Best practice |
-| [frame-title](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-title.json) | [Deque University guidance for frame-title](https://dequeuniversity.com/rules/axe/4.12/frame-title?application=axeAPI) | WCAG A/AA partial check |
-| [frame-title-unique](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-title-unique.json) | [Deque University guidance for frame-title-unique](https://dequeuniversity.com/rules/axe/4.12/frame-title-unique?application=axeAPI) | WCAG A/AA partial check |
+| [frame-tested](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-tested.json) | [frame-tested](https://dequeuniversity.com/rules/axe/4.12/frame-tested?application=axeAPI) | Best practice |
+| [frame-title](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-title.json) | [frame-title](https://dequeuniversity.com/rules/axe/4.12/frame-title?application=axeAPI) | WCAG A/AA partial check |
+| [frame-title-unique](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-title-unique.json) | [frame-title-unique](https://dequeuniversity.com/rules/axe/4.12/frame-title-unique?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 2.4.2 Page Titled](https://www.w3.org/TR/WCAG22/#page-titled); [WCAG 4.1.2 Name Role Value](https://www.w3.org/TR/WCAG22/#name-role-value).
@@ -323,9 +323,9 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [autocomplete-valid](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/autocomplete-valid.json) | [Deque University guidance for autocomplete-valid](https://dequeuniversity.com/rules/axe/4.12/autocomplete-valid?application=axeAPI) | WCAG A/AA partial check |
-| [form-field-multiple-labels](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/form-field-multiple-labels.json) | [Deque University guidance for form-field-multiple-labels](https://dequeuniversity.com/rules/axe/4.12/form-field-multiple-labels?application=axeAPI) | WCAG A/AA partial check |
-| [label-title-only](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/label-title-only.json) | [Deque University guidance for label-title-only](https://dequeuniversity.com/rules/axe/4.12/label-title-only?application=axeAPI) | Best practice |
+| [autocomplete-valid](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/autocomplete-valid.json) | [autocomplete-valid](https://dequeuniversity.com/rules/axe/4.12/autocomplete-valid?application=axeAPI) | WCAG A/AA partial check |
+| [form-field-multiple-labels](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/form-field-multiple-labels.json) | [form-field-multiple-labels](https://dequeuniversity.com/rules/axe/4.12/form-field-multiple-labels?application=axeAPI) | WCAG A/AA partial check |
+| [label-title-only](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/label-title-only.json) | [label-title-only](https://dequeuniversity.com/rules/axe/4.12/label-title-only?application=axeAPI) | Best practice |
 
 **WCAG and related guidance:** 
 [WCAG 1.3.5 Identify Input Purpose](https://www.w3.org/TR/WCAG22/#identify-input-purpose); [WCAG 3.3.2 Labels or Instructions](https://www.w3.org/TR/WCAG22/#labels-or-instructions).
@@ -347,14 +347,14 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [aria-meter-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-meter-name.json) | [Deque University guidance for aria-meter-name](https://dequeuniversity.com/rules/axe/4.12/aria-meter-name?application=axeAPI) | WCAG A/AA partial check |
-| [aria-progressbar-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-progressbar-name.json) | [Deque University guidance for aria-progressbar-name](https://dequeuniversity.com/rules/axe/4.12/aria-progressbar-name?application=axeAPI) | WCAG A/AA partial check |
-| [image-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/image-alt.json) | [Deque University guidance for image-alt](https://dequeuniversity.com/rules/axe/4.12/image-alt?application=axeAPI) | WCAG A/AA partial check |
-| [image-redundant-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/img-redundant-alt.json) | [Deque University guidance for image-redundant-alt](https://dequeuniversity.com/rules/axe/4.12/image-redundant-alt?application=axeAPI) | Best practice |
-| [input-image-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/input-image-alt.json) | [Deque University guidance for input-image-alt](https://dequeuniversity.com/rules/axe/4.12/input-image-alt?application=axeAPI) | WCAG A/AA partial check |
-| [object-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/object-alt.json) | [Deque University guidance for object-alt](https://dequeuniversity.com/rules/axe/4.12/object-alt?application=axeAPI) | WCAG A/AA partial check |
-| [role-img-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/role-img-alt.json) | [Deque University guidance for role-img-alt](https://dequeuniversity.com/rules/axe/4.12/role-img-alt?application=axeAPI) | WCAG A/AA partial check |
-| [svg-img-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/svg-img-alt.json) | [Deque University guidance for svg-img-alt](https://dequeuniversity.com/rules/axe/4.12/svg-img-alt?application=axeAPI) | WCAG A/AA partial check |
+| [aria-meter-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-meter-name.json) | [aria-meter-name](https://dequeuniversity.com/rules/axe/4.12/aria-meter-name?application=axeAPI) | WCAG A/AA partial check |
+| [aria-progressbar-name](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/aria-progressbar-name.json) | [aria-progressbar-name](https://dequeuniversity.com/rules/axe/4.12/aria-progressbar-name?application=axeAPI) | WCAG A/AA partial check |
+| [image-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/image-alt.json) | [image-alt](https://dequeuniversity.com/rules/axe/4.12/image-alt?application=axeAPI) | WCAG A/AA partial check |
+| [image-redundant-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/img-redundant-alt.json) | [image-redundant-alt](https://dequeuniversity.com/rules/axe/4.12/image-redundant-alt?application=axeAPI) | Best practice |
+| [input-image-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/input-image-alt.json) | [input-image-alt](https://dequeuniversity.com/rules/axe/4.12/input-image-alt?application=axeAPI) | WCAG A/AA partial check |
+| [object-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/object-alt.json) | [object-alt](https://dequeuniversity.com/rules/axe/4.12/object-alt?application=axeAPI) | WCAG A/AA partial check |
+| [role-img-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/role-img-alt.json) | [role-img-alt](https://dequeuniversity.com/rules/axe/4.12/role-img-alt?application=axeAPI) | WCAG A/AA partial check |
+| [svg-img-alt](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/svg-img-alt.json) | [svg-img-alt](https://dequeuniversity.com/rules/axe/4.12/svg-img-alt?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 1.1.1 Non-text Content](https://www.w3.org/TR/WCAG22/#non-text-content).
@@ -376,8 +376,8 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [color-contrast](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/color-contrast.json) | [Deque University guidance for color-contrast](https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI) | WCAG A/AA partial check |
-| [link-in-text-block](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/link-in-text-block.json) | [Deque University guidance for link-in-text-block](https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI) | WCAG A/AA partial check |
+| [color-contrast](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/color-contrast.json) | [color-contrast](https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI) | WCAG A/AA partial check |
+| [link-in-text-block](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/link-in-text-block.json) | [link-in-text-block](https://dequeuniversity.com/rules/axe/4.12/link-in-text-block?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 1.4.1 Use of Color](https://www.w3.org/TR/WCAG22/#use-of-color); [WCAG 1.4.3 Contrast Minimum](https://www.w3.org/TR/WCAG22/#contrast-minimum).
@@ -399,9 +399,9 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [avoid-inline-spacing](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/avoid-inline-spacing.json) | [Deque University guidance for avoid-inline-spacing](https://dequeuniversity.com/rules/axe/4.12/avoid-inline-spacing?application=axeAPI) | WCAG A/AA partial check |
-| [meta-viewport](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/meta-viewport.json) | [Deque University guidance for meta-viewport](https://dequeuniversity.com/rules/axe/4.12/meta-viewport?application=axeAPI) | WCAG A/AA partial check |
-| [meta-viewport-large](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/meta-viewport-large.json) | [Deque University guidance for meta-viewport-large](https://dequeuniversity.com/rules/axe/4.12/meta-viewport-large?application=axeAPI) | Best practice |
+| [avoid-inline-spacing](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/avoid-inline-spacing.json) | [avoid-inline-spacing](https://dequeuniversity.com/rules/axe/4.12/avoid-inline-spacing?application=axeAPI) | WCAG A/AA partial check |
+| [meta-viewport](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/meta-viewport.json) | [meta-viewport](https://dequeuniversity.com/rules/axe/4.12/meta-viewport?application=axeAPI) | WCAG A/AA partial check |
+| [meta-viewport-large](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/meta-viewport-large.json) | [meta-viewport-large](https://dequeuniversity.com/rules/axe/4.12/meta-viewport-large?application=axeAPI) | Best practice |
 
 **WCAG and related guidance:** 
 [WCAG 1.4.4 Resize Text](https://www.w3.org/TR/WCAG22/#resize-text); [WCAG 1.4.10 Reflow](https://www.w3.org/TR/WCAG22/#reflow); [WCAG 1.4.12 Text Spacing](https://www.w3.org/TR/WCAG22/#text-spacing).
@@ -425,7 +425,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [target-size](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/target-size.json) | [Deque University guidance for target-size](https://dequeuniversity.com/rules/axe/4.12/target-size?application=axeAPI) | WCAG A/AA partial check |
+| [target-size](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/target-size.json) | [target-size](https://dequeuniversity.com/rules/axe/4.12/target-size?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 2.5.8 Target Size Minimum](https://www.w3.org/TR/WCAG22/#target-size-minimum).
@@ -447,8 +447,8 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [no-autoplay-audio](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/no-autoplay-audio.json) | [Deque University guidance for no-autoplay-audio](https://dequeuniversity.com/rules/axe/4.12/no-autoplay-audio?application=axeAPI) | WCAG A/AA partial check |
-| [video-caption](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/video-caption.json) | [Deque University guidance for video-caption](https://dequeuniversity.com/rules/axe/4.12/video-caption?application=axeAPI) | WCAG A/AA partial check |
+| [no-autoplay-audio](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/no-autoplay-audio.json) | [no-autoplay-audio](https://dequeuniversity.com/rules/axe/4.12/no-autoplay-audio?application=axeAPI) | WCAG A/AA partial check |
+| [video-caption](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/video-caption.json) | [video-caption](https://dequeuniversity.com/rules/axe/4.12/video-caption?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 1.2.2 Captions Prerecorded](https://www.w3.org/TR/WCAG22/#captions-prerecorded); [WCAG 1.2.4 Captions Live](https://www.w3.org/TR/WCAG22/#captions-live); [WCAG 1.4.2 Audio Control](https://www.w3.org/TR/WCAG22/#audio-control).
@@ -470,9 +470,9 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [blink](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/blink.json) | [Deque University guidance for blink](https://dequeuniversity.com/rules/axe/4.12/blink?application=axeAPI) | WCAG A/AA partial check |
-| [marquee](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/marquee.json) | [Deque University guidance for marquee](https://dequeuniversity.com/rules/axe/4.12/marquee?application=axeAPI) | WCAG A/AA partial check |
-| [meta-refresh](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/meta-refresh.json) | [Deque University guidance for meta-refresh](https://dequeuniversity.com/rules/axe/4.12/meta-refresh?application=axeAPI) | WCAG A/AA partial check |
+| [blink](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/blink.json) | [blink](https://dequeuniversity.com/rules/axe/4.12/blink?application=axeAPI) | WCAG A/AA partial check |
+| [marquee](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/marquee.json) | [marquee](https://dequeuniversity.com/rules/axe/4.12/marquee?application=axeAPI) | WCAG A/AA partial check |
+| [meta-refresh](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/meta-refresh.json) | [meta-refresh](https://dequeuniversity.com/rules/axe/4.12/meta-refresh?application=axeAPI) | WCAG A/AA partial check |
 
 **WCAG and related guidance:** 
 [WCAG 2.2.1 Timing Adjustable](https://www.w3.org/TR/WCAG22/#timing-adjustable); [WCAG 2.2.2 Pause Stop Hide](https://www.w3.org/TR/WCAG22/#pause-stop-hide); [WCAG 2.3.1 Three Flashes or Below Threshold](https://www.w3.org/TR/WCAG22/#three-flashes-or-below-threshold).
@@ -494,11 +494,11 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 | AXE Rules | Guidance | Classification |
 | --- | --- | --- |
-| [frame-focusable-content](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-focusable-content.json) | [Deque University guidance for frame-focusable-content](https://dequeuniversity.com/rules/axe/4.12/frame-focusable-content?application=axeAPI) | WCAG A/AA partial check |
-| [scrollable-region-focusable](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/scrollable-region-focusable.json) | [Deque University guidance for scrollable-region-focusable](https://dequeuniversity.com/rules/axe/4.12/scrollable-region-focusable?application=axeAPI) | WCAG A/AA partial check |
-| [server-side-image-map](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/server-side-image-map.json) | [Deque University guidance for server-side-image-map](https://dequeuniversity.com/rules/axe/4.12/server-side-image-map?application=axeAPI) | WCAG A/AA partial check |
-| [accesskeys](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/accesskeys.json) | [Deque University guidance for accesskeys](https://dequeuniversity.com/rules/axe/4.12/accesskeys?application=axeAPI) | Best practice |
-| [tabindex](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/tabindex.json) | [Deque University guidance for tabindex](https://dequeuniversity.com/rules/axe/4.12/tabindex?application=axeAPI) | Best practice |
+| [frame-focusable-content](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/frame-focusable-content.json) | [frame-focusable-content](https://dequeuniversity.com/rules/axe/4.12/frame-focusable-content?application=axeAPI) | WCAG A/AA partial check |
+| [scrollable-region-focusable](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/scrollable-region-focusable.json) | [scrollable-region-focusable](https://dequeuniversity.com/rules/axe/4.12/scrollable-region-focusable?application=axeAPI) | WCAG A/AA partial check |
+| [server-side-image-map](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/server-side-image-map.json) | [server-side-image-map](https://dequeuniversity.com/rules/axe/4.12/server-side-image-map?application=axeAPI) | WCAG A/AA partial check |
+| [accesskeys](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/accesskeys.json) | [accesskeys](https://dequeuniversity.com/rules/axe/4.12/accesskeys?application=axeAPI) | Best practice |
+| [tabindex](https://github.com/dequelabs/axe-core/blob/v4.12.1/lib/rules/tabindex.json) | [tabindex](https://dequeuniversity.com/rules/axe/4.12/tabindex?application=axeAPI) | Best practice |
 
 **WCAG and related guidance:** 
 [WCAG 2.1.1 Keyboard](https://www.w3.org/TR/WCAG22/#keyboard).
