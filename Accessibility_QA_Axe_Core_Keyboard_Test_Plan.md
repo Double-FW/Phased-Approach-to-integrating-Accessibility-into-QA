@@ -135,7 +135,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 
 
 
-### AUTO-04 Landmarks and bypass
+### AUTO-04 Landmarks and Skip Links (Bypass)
 
 **Outcome:** The page satisfies the selected landmark best practices and rule-detectable bypass checks; actual bypass operation is assessed separately.
 
