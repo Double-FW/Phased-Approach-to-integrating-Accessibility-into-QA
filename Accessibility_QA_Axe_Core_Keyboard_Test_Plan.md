@@ -50,6 +50,7 @@ An exclusion removes coverage and must have a recorded reason, owner and review 
 Every group below uses the common evidence and result model. Retain run/build/state identifiers, rule ID and classification, target path, node HTML where useful, axe impact, failure summary, complete raw JSON, review decision, reviewer and evidence links. Record all applicable nodes and required states before assigning a complete group pass. Best-practice and WCAG results remain separate within mixed groups.
 
 
+
 ### AUTO-01 Structure and relationships
 
 **Outcome:** Specified list structures and required ARIA parent and child relationships satisfy the mapped rules.
@@ -75,6 +76,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 **Manual cross-references:** No direct keyboard-test coverage.
 
 **Result:** Record per rule, node and state using the common result model, then summarise WCAG and best-practice results separately.
+
 
 
 ### AUTO-02 Data table relationships
@@ -105,6 +107,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 **Result:** Record per rule, node and state using the common result model, then summarise WCAG and best-practice results separately.
 
 
+
 ### AUTO-03 Headings
 
 **Outcome:** The page satisfies the selected heading presence, non-empty heading and heading-order best practices.
@@ -129,6 +132,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 **Additional experimental assistance:** [p-as-heading](https://dequeuniversity.com/rules/axe/4.12/p-as-heading?application=axeAPI). See the separate experimental profile; do not combine its result with the baseline.
 
 **Result:** Record per rule, node and state using the common result model, then summarise WCAG and best-practice results separately.
+
 
 
 ### AUTO-04 Landmarks and bypass
@@ -161,6 +165,7 @@ Every group below uses the common evidence and result model. Retain run/build/st
 **Manual cross-references:** Keyboard-T06; Focus-T07 for initially hidden bypass controls; Focus-T01 for the resulting navigation position.
 
 **Result:** Record per rule, node and state using the common result model, then summarise WCAG and best-practice results separately.
+
 
 
 ### AUTO-05 Link names
