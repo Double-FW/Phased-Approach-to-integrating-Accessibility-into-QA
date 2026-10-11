@@ -1,6 +1,6 @@
 # Phased Approach to Integrating Accessibility into QA
 
-This repository captures the first phase of a practical, evidence-based accessibility strategy for quality assurance. It focuses on automated axe-core checks supported by manual keyboard and focus testing, with the aim of embedding accessibility validation into the normal QA process rather than treating it as a one-off review.
+This repository captures the first phase of a practical, evidence-based accessibility strategy for quality assurance. It focuses on automated axe-core checks supported by manual keyboard and focus testing, with a clear path for scaling into broader accessibility maturity over time.
 
 ## Purpose
 
@@ -17,8 +17,22 @@ This repository is intentionally focused on the foundation of accessibility QA: 
 ## Repository contents
 
 - `Accessibility_QA_Axe_Core_Keyboard_Test_Plan.md` – the main test plan document
+- `agent.md` – guidance for AI agents supporting QA and project management workflows
 - `LICENSE` – repository licensing information
 - `README.md` – project overview and usage guidance
+
+## AI Agent Guidance
+
+This repository includes an `agent.md` file to support AI agents tasked with managing QA and project management responsibilities. The agent guidance is designed to help automated assistants:
+
+- manage accessibility QA execution and evidence capture
+- organize phase-based project planning and milestone tracking
+- maintain clear defect lifecycle workflows and retest tracking
+- support issue triage, documentation updates, and project coordination
+- enforce quality standards grounded in the repository's testing framework
+- communicate status, blockers, and opportunities for improvement to stakeholders
+
+The `agent.md` file is intended to provide operational context for AI-driven support without replacing human judgment, especially for decision points involving severity, rule applicability, or phase readiness.
 
 ## Phase 1: AXE + Keyboard and Focus
 
@@ -40,7 +54,7 @@ The testing model is explicit about scope and evidence:
 
 ## Why this matters
 
-Accessibility is often integrated late into QA, which leads to missed issues, weak validation, and unclear ownership. This repository establishes a practical starting point that makes accessibility testing:
+Accessibility is often integrated late into QA, which leads to missed issues, weak validation, and unclear ownership. This repository establishes a practical starting point that makes accessibility quality:
 
 - repeatable
 - versioned
@@ -71,7 +85,7 @@ Use the test plan as a reference document for:
 
 ## Project status
 
-This repository is a foundational accessibility QA artifact. It is intended to provide structure, traceability, and a practical test framework for the first phase of accessibility integration into QA.
+This repository is a foundational accessibility QA artifact. It is intended to provide structure, traceability, and a practical test framework for the first phase of accessibility integration into QA and project management practices.
 
 ## License
 
