@@ -17,7 +17,7 @@ This repository is intentionally focused on the foundation of accessibility QA: 
 ## Repository contents
 
 - `Accessibility_QA_Axe_Core_Keyboard_Test_Plan.md` – the main test plan document
-- `agent.md` – guidance for AI agents supporting QA and project management workflows
+- `AGENTS.md` – guidance for AI agents supporting QA and project management workflows
 - `LICENSE` – repository licensing information
 - `README.md` – project overview and usage guidance
 
