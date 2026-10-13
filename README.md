@@ -1,4 +1,4 @@
-# Phased Approach to Integrating Accessibility into QA - Phase 1
+# Phased Approach to Integrating Accessibility into QA
 
 This repository captures the first phase of a practical, evidence-based accessibility strategy for quality assurance. It focuses on automated axe-core checks supported by manual keyboard and focus testing, with a clear path for scaling into broader accessibility maturity over time.
 
